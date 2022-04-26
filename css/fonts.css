@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'Gilroy-Medium';
+	src: url('./fonts/Gilroy/Gilroy-Medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gilroy-Bold';
+	src: url('./fonts/Gilroy/Gilroy-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gilroy-ExtraBold';
+	src: url('./fonts/Gilroy/Gilroy-ExtraBold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Chronicle-SemiBold';
+	src: url('./fonts/Chronicle/ChronicleDisplaySemibold.otf') format('opentype');
+	font-weight: 600;
+	font-style: normal;
+}
